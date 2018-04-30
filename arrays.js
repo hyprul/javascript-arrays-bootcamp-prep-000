@@ -8,7 +8,7 @@ function destrutivelyAddElementToBeginningOfArray(){
   
 }
 
-function addElementToBeginningOfArray(){
+function addElementToEndOfArray(){
   
 }
 
